@@ -7,3 +7,11 @@ rooms: 1.0
 property attributes: bad mit dusche, bad mit fenster, wbs
 hash: 89d5acf3deae588dbe0e0ad01d01a81991279e51b3d0878c335991a21d09efd0
 
+2026-08-19 09:54:28,996 [INFO] flats: Application sent:
+2-Zimmer-Wohnung in Kreuzberg WBS 140/100
+zip code: 10969
+flat size: 55.31
+rooms: 2.0
+property attributes: bad mit wanne, aufzug, einbauküche, barrierearm, balkon, wbs
+hash: cf52764e8a309c7925a6553fcaeecf7884ee0aa74f3eac679f30f2ef9ef7738b
+
