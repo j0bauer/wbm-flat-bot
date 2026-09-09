@@ -15,3 +15,11 @@ rooms: 2.0
 property attributes: bad mit wanne, aufzug, einbauküche, barrierearm, balkon, wbs
 hash: cf52764e8a309c7925a6553fcaeecf7884ee0aa74f3eac679f30f2ef9ef7738b
 
+2026-09-09 15:11:53,313 [INFO] flats: Application sent:
+2-Zimmer-Wohnung mit WBS160-220 in Friedrichshain
+zip code: 10179
+flat size: 52.86
+rooms: 2.0
+property attributes: bad mit wanne, aufzug, wbs, abstellraum
+hash: bc56c6cbaa6dc0243057874a760775d66c3cd482085091e88026a0588a0a894f
+
